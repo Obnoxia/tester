@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("HelloWorld");
 		ArrayList<String> blabla = new ArrayList<String>();
 		blabla.add("imba");
+		blabla.add("DOTA2");
 
 	}
 
